@@ -1,3 +1,4 @@
 # renbmi
 
-A new Flutter project.
+Flutter project using Reddux State Management
+(BMI Calculator)
